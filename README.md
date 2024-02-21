@@ -1,3 +1,5 @@
+[https://apify.com/epctex/tripadvisor-scraper](https://apify.com/epctex/tripadvisor-scraper?fpr=yhdrb)
+
 # TripAdvisor Scraper Actor
 
 ## What is TripAdvisor Scraper actor?
